@@ -68,6 +68,20 @@ Just call for example:
   simple.html
 ```
 
+## Adding application for online whiteboarding
+Making a collaboration tool for remote work, the famous whiteboard.
+
+- Adding a feature where you can create a room ( with a whiteboard )
+- Sharing feature of room number 
+- Real time collaboration that can work hand in hand with other tools such as zoom ... 
+
+
+
+
 ## License
   AGPL-3.
   https://www.gnu.org/licenses/agpl-3.0.html
+
+
+
+
